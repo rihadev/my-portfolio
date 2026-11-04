@@ -6,7 +6,7 @@ I built this portfolio to present my technical abilities, highlight my projects,
 
 ## 🌐 Live Demo
 
-🚀 **Portfolio Website:** [Visit My Portfolio](YOUR_LIVE_WEBSITE_URL)
+🚀 **Portfolio Website:** [Visit My Portfolio](https://rihadev.github.io/my-portfolio/)
 
 ## ✨ Features
 
